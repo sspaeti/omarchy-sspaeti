@@ -14,4 +14,5 @@ if [ -z "$OMARCHY_BARE" ]; then
   web2app "X" https://x.com/ https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/x-light.png
   web2app "Omarchy Manual" https://manuals.omamix.org/2/the-omarchy-manual https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/arch-linux.png
   web2app "Bsky" https://blue.ssp.sh/ https://web-cdn.bsky.app/static/apple-touch-icon.png
+  web2app "Claude" https://claude.ai https://claude.ai/images/claude_app_icon.png
 fi
